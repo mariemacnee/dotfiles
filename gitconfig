@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mgramm94@gmail.com
+	name = Marie Macnee
